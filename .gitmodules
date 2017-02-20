@@ -1,0 +1,3 @@
+[submodule "org-bootstrap-document"]
+	path = org-bootstrap-document
+	url = git@github.com:mrcinv/org-bootstrap-document.git
